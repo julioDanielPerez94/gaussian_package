@@ -8,7 +8,7 @@ In this repo you will find a simple package that includes some methods and class
 ## Files in this repository
 - Files needed by defect to upload to Pypi repository.
 - Python scripts with classes and methods
-- 
+
 ## Installation and packages
 You will not need to install any new module. You just need to copy the following lines to import the package and run it. If you want to know about the methods, please check .py files:
 ``` 
